@@ -42,6 +42,10 @@ section{
     height: 30px;
 }
 
+.textbox::placeholder{
+    text-align: center;
+}
+
 .btn{
     margin-top: 2%;
     display: flex;
