@@ -1,5 +1,17 @@
+@font-face {
+    font-family: lobster;
+    src: url(./Lobster1.4.otf);
+}
+
 body{
     background-color: rgb(28,28,28);
+}
+
+.title{
+    font-family: lobster;
+    color: antiquewhite ;
+    text-shadow: 8px 8px 8px rgb(43, 41, 41);
+    font-size: 40px;
 }
 
 section{
